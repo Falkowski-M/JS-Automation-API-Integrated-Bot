@@ -37,4 +37,4 @@ BotMafia to zaawansowany skrypt typu *UserScript* (Tampermonkey/Greasemonkey) st
 Projekt powstał wyłącznie w celach edukacyjnych i badawczych. Autor nie zachęca do naruszania regulaminów serwisów internetowych. Używasz skryptu na własną odpowiedzialność.
 
 ---
-*Created by Mikołaj Falkowski*
+*Created by [Falkowski-M](https://github.com/Falkowski-M)*
