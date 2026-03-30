@@ -1,5 +1,9 @@
 # BotMafia 2.0 – Browser Automation & API Integration
 
+![Bot HUD Preview](img/preview.png)
+
+> **Widok interfejsu:** Autorski panel sterowania (HUD) wstrzyknięty do DOM, oferujący pełną konfigurację modułów automatyzacji oraz system powiadomień w czasie rzeczywistym.
+
 ![JavaScript](https://img.shields.io/badge/language-JavaScript%20ES6+-yellow)
 ![Platform](https://img.shields.io/badge/platform-Tampermonkey-green)
 ![Status](https://img.shields.io/badge/status-Educational%20Project-blue)
