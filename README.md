@@ -30,7 +30,7 @@ BotMafia to zaawansowany skrypt typu *UserScript* (Tampermonkey/Greasemonkey) st
 ## ⚙️ Instalacja i Konfiguracja
 > **Uwaga:** Projekt ma charakter demonstracyjny. Aby uruchomić go w pełni:
 1. Wymagane jest rozszerzenie Tampermonkey.
-2. Należy uzupełnić brakujące klucze `SECRET_KEY` oraz `LOG_WEBHOOK_URL` (usunięte w celach bezpieczeństwa w wersji publicznej).
+2. Należy uzupełnić brakujące klucze `SECRET_KEY` oraz `LOG_WEBHOOK_URL`.
 3. Skrypt jest dostosowany do pracy z plikiem `license.json` na zewnętrznym repozytorium.
 
 ## ⚠️ Disclaimer
